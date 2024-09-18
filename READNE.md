@@ -1,0 +1,1 @@
+This is for practicing ExpressJS with sequelize API and sqllite. v 0.1
