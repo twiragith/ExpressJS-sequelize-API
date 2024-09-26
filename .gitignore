@@ -15,3 +15,6 @@ Thumbs.db
 
 # Build output
 dist/
+
+# Database
+database.sqlite
